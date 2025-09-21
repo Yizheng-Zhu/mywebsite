@@ -1,4 +1,4 @@
-import{j as n}from"./index-B2qNje00.js";function r(e){const s={a:"a",br:"br",code:"code",em:"em",h1:"h1",h2:"h2",h3:"h3",h4:"h4",hr:"hr",li:"li",ol:"ol",p:"p",pre:"pre",strong:"strong",ul:"ul",...e.components};return n.jsxs(n.Fragment,{children:[n.jsx(s.hr,{}),`
+import{j as n}from"./index-C0W0WKzs.js";function r(e){const s={a:"a",br:"br",code:"code",em:"em",h1:"h1",h2:"h2",h3:"h3",h4:"h4",hr:"hr",li:"li",ol:"ol",p:"p",pre:"pre",strong:"strong",ul:"ul",...e.components};return n.jsxs(n.Fragment,{children:[n.jsx(s.hr,{}),`
 `,n.jsx(s.h1,{children:"第一步：加入团队"}),`
 `,n.jsxs(s.ul,{children:[`
 `,n.jsxs(s.li,{children:[`
